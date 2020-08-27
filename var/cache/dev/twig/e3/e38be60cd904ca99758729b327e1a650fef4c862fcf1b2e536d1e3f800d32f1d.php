@@ -434,6 +434,6 @@ class __TwigTemplate_df1cd5ae10d0ff93dd606ed81c62319511f8a43400c67dfe73f6e0616c0
         {% endif %}
     </div>
 {% endblock %}
-", "@WebProfiler/Collector/http_client.html.twig", "C:\\xampp\\htdocs\\symbnb\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\http_client.html.twig");
+", "@WebProfiler/Collector/http_client.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\http_client.html.twig");
     }
 }

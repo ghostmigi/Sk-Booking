@@ -176,6 +176,6 @@ class __TwigTemplate_febcdd4e51886f64ffdfe577531b71af2f7891c541458e0087c84bc41ff
             {% endif %}
         </div>
     </div>
-</div>", "ad/_ad.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\ad\\_ad.html.twig");
+</div>", "ad/_ad.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\ad\\_ad.html.twig");
     }
 }

@@ -226,6 +226,6 @@ class __TwigTemplate_a244357df2ff9587eb995169ab82532e2d662a6ac03234f76ab0d6c319b
         {{ form_end(form) }} <!--la fin de formulaire-->
     </div>
 
-{% endblock %}", "account/registration.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\account\\registration.html.twig");
+{% endblock %}", "account/registration.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\account\\registration.html.twig");
     }
 }

@@ -100,6 +100,6 @@ class __TwigTemplate_b87690dacc8cf9b8d12b9ab5b2b91d1a97e6f9957bfe8cfdd9219e59a2a
         {% endif %}
         {% endfor %}
 </span>
-", "partials/rating.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\partials\\rating.html.twig");
+", "partials/rating.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\partials\\rating.html.twig");
     }
 }

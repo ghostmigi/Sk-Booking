@@ -290,6 +290,6 @@ class __TwigTemplate_42ce611fb59a0b6cc9ef15e74acadd40a3467cfc3e6f27d53254284410f
             {% endfor %}
         </div>
     </div>
-{% endblock %}", "home.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\home.html.twig");
+{% endblock %}", "home.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\home.html.twig");
     }
 }

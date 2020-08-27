@@ -1479,6 +1479,6 @@ class __TwigTemplate_ccfb9a8e4683d197dc90381768c0238b5a42ff4e4a6376ca2b2f0fa6201
         </small>
     {%- endif -%}
 {%- endblock form_help %}
-", "bootstrap_4_layout.html.twig", "C:\\xampp\\htdocs\\symbnb\\vendor\\symfony\\twig-bridge\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
+", "bootstrap_4_layout.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\vendor\\symfony\\twig-bridge\\Resources\\views\\Form\\bootstrap_4_layout.html.twig");
     }
 }

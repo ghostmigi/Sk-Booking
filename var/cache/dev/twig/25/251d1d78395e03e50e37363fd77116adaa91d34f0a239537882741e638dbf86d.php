@@ -240,6 +240,6 @@ class __TwigTemplate_720c39d164faa1f60e991a4d7de8f46840d108793ffd9d5162f1fa79f9c
             {% endfor %}
         </div>
     </div>
-{% endfor %}", "partials/header.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\partials\\header.html.twig");
+{% endfor %}", "partials/header.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\partials\\header.html.twig");
     }
 }

@@ -4984,3 +4984,9 @@ cc7d85,::1,GET,http://localhost:8000/login,1598117659,,200
 678ad1,::1,GET,http://localhost:8000/register,1598117666,,200
 8c3a39,::1,GET,http://localhost:8000/,1598548436,,200
 b180c1,::1,GET,http://localhost:8000/ads,1598548573,,200
+6a8e59,::1,GET,http://localhost:8000/,1598552330,,200
+904e38,::1,GET,http://localhost:8000/register,1598552337,,200
+5449f6,::1,POST,http://localhost:8000/register,1598552382,,302
+9c274f,::1,GET,http://localhost:8000/login,1598552382,,200
+612664,::1,POST,http://localhost:8000/login,1598552394,,302
+bedc7c,::1,GET,http://localhost:8000/,1598552395,,200

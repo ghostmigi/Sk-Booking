@@ -413,6 +413,6 @@ class __TwigTemplate_30482c95eea4c4aad3787e2551cdbd5c5191aec8f7f6241886c6191e27b
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "C:\\xampp\\htdocs\\symbnb\\vendor\\symfony\\debug-bundle\\Resources\\views\\Profiler\\dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\vendor\\symfony\\debug-bundle\\Resources\\views\\Profiler\\dump.html.twig");
     }
 }

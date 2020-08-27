@@ -1843,6 +1843,6 @@ class __TwigTemplate_7d5da379b5b4acf88ae325c0f203d2fbdbe19b9e2c7453440b0a2537fb5
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "C:\\xampp\\htdocs\\symbnb\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
     }
 }

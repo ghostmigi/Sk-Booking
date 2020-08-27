@@ -191,6 +191,6 @@ class __TwigTemplate_8d0c90ff71e80729e1781146ead36d5252874cdacb49bbd3caadb104ed3
             </div>
         </div>
     </div>
-{% endblock %}", "account/login.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\account\\login.html.twig");
+{% endblock %}", "account/login.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\account\\login.html.twig");
     }
 }

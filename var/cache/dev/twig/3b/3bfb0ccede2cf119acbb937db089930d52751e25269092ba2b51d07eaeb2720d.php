@@ -67,6 +67,6 @@ class __TwigTemplate_ed949aeff7deef5823ca5f797a026d91e42bc5e91cbd1b7db11b6da72dc
         return new Source("<footer class=\"mt-5 bg-light py-5 text-center\">
     <hr>
     <p>Copyright SK-Dev !</p>
-</footer>", "partials/footer.html.twig", "C:\\xampp\\htdocs\\symbnb\\templates\\partials\\footer.html.twig");
+</footer>", "partials/footer.html.twig", "C:\\xampp\\htdocs\\Sk-Booking\\templates\\partials\\footer.html.twig");
     }
 }
